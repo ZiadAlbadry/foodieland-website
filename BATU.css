@@ -136,37 +136,6 @@ header .main i:hover {
     text-align: justify;
 }
 
-/* General Container Styles */
-.container {
-    display: flex;
-    justify-content: space-between;
-    gap: 2rem;
-    padding: 2rem;
-}
-
-/* Text Content */
-.text-content {
-    flex: 1;
-    color: #ffffff;
-}
-
-/* Image Content */
-.image-content {
-    flex: 1;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.image-content img {
-    max-width: 100%;
-    height: auto;
-    border: 3px solid #bb86fc; /* Border around the images */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
-}
-
-
 #mission, #story {
     padding: 3rem 2rem;
     text-align: center;
@@ -274,4 +243,4 @@ footer p {
     .section p {
         font-size: 1rem;
     }
-}                     
+}           
